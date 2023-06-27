@@ -1,20 +1,9 @@
-﻿<Window x:Class = "KompCheck_Zaldea.MainWindow" 
-   xmlns = "http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
-   xmlns:x = "http://schemas.microsoft.com/winfx/2006/xaml"
-   xmlns:d = "http://schemas.microsoft.com/expression/blend/2008"
-   xmlns:mc = "http://schemas.openxmlformats.org/markup-compatibility/2006"
-   xmlns:local = "clr-namespace:KompCheck_Zaldea"
-   mc:Ignorable = "d"
-   Title = "MainWindow" Height = "450" Width = "800"
-   ResizeMode = "NoResize" Background = "Black">
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width = "31*"/>
-            <ColumnDefinition Width = "169*"/>
-        </Grid.ColumnDefinitions>
-        
-        <Button Grid.Column = "1" Content = "Accounts Manager" HorizontalAlignment = "Left"
-              Margin = "404,152,0,0" VerticalAlignment = "Top"
-              Height = "109" Width = "205"/>
+﻿<Window x:Class="BankApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="800" Background="Black">
+    <Grid Margin="0,0,0,4">
+        <Button Content="Accounts Manager" HorizontalAlignment="Left" Click="Button_Click" Margin="515,268,0,53" Width="169" Background="Yellow"/>
+        <Image HorizontalAlignment="Left" Height="207" VerticalAlignment="Top" Width="231" Source="C:\Users\zalde\source\repos\KompCheck_Zaldea\G.png"/>
     </Grid>
 </Window>
