@@ -55,9 +55,12 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Accounts.cs" />
+    <Compile Include="DataHandler.cs" />
     <Compile Include="Statements.xaml.cs">
       <DependentUpon>Statements.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Transactions.cs" />
     <Page Include="AccountsWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

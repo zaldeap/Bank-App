@@ -4,6 +4,6 @@
         Title="MainWindow" Height="450" Width="800" Background="Black">
     <Grid Margin="0,0,0,4">
         <Button Content="Accounts Manager" HorizontalAlignment="Left" Click="Button_Click" Margin="515,268,0,53" Width="169" Background="Yellow"/>
-        <Image HorizontalAlignment="Left" Height="207" VerticalAlignment="Top" Width="231" Source="C:\Users\zalde\source\repos\KompCheck_Zaldea\G.png"/>
+        <Image HorizontalAlignment="Left" Height="207" VerticalAlignment="Top" Width="231"/>
     </Grid>
 </Window>

@@ -1,76 +1,89 @@
-<mxfile host="Electron" modified="2023-06-27T13:25:58.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="hy71WJh_Q6lvFlGBZj0N" version="21.5.0" type="device">
+<mxfile host="Electron" modified="2023-06-28T08:59:01.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="TBgm6ubPnDnu7k9q46r0" version="21.5.0" type="device">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-0" value="Create diagram" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JwE9dmP6-sfjmnjbDenP-0" target="JwE9dmP6-sfjmnjbDenP-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="110" as="sourcePoint" />
-            <mxPoint x="250" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JwE9dmP6-sfjmnjbDenP-3" target="JwE9dmP6-sfjmnjbDenP-5">
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-0" target="j2kc7Oip9wlwYq-TMwCC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-3" value="Research and choose the programming language" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-0" value="Create the GUI Windows and link them together where needed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="60" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JwE9dmP6-sfjmnjbDenP-5" target="JwE9dmP6-sfjmnjbDenP-7">
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-1" target="j2kc7Oip9wlwYq-TMwCC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-5" value="Create GUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-1" value="Create a &quot;Account&quot; class&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="60" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JwE9dmP6-sfjmnjbDenP-7" target="JwE9dmP6-sfjmnjbDenP-19">
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-3" target="j2kc7Oip9wlwYq-TMwCC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-7" value="Write the logic behind the elements, test to ensure functionality" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-3" value="Create a class file to handle all the reading of data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="60" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-14" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="550" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-17" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="610" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JwE9dmP6-sfjmnjbDenP-19" target="JwE9dmP6-sfjmnjbDenP-21">
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-5" target="j2kc7Oip9wlwYq-TMwCC-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-19" value="Make sure the code is easy to read and the program is user friendly" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-5" value="Behind the second window write the code for the functionality, test and check if everything works" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="55" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JwE9dmP6-sfjmnjbDenP-21" target="JwE9dmP6-sfjmnjbDenP-23">
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-7" target="j2kc7Oip9wlwYq-TMwCC-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-21" value="Create another GUI and repeat the process." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-7" value="Add comments and make sure the second window aspect and functionality is user friendly&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="665" y="170" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JwE9dmP6-sfjmnjbDenP-23" target="JwE9dmP6-sfjmnjbDenP-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-23" value="Degub, debug, debug until everything is perfect." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JwE9dmP6-sfjmnjbDenP-28" target="JwE9dmP6-sfjmnjbDenP-23">
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-9" target="j2kc7Oip9wlwYq-TMwCC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-28" value="Finished?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="600" width="80" height="80" as="geometry" />
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-9" value="Create a &quot;Transaction&quot; class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="170" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JwE9dmP6-sfjmnjbDenP-28" target="JwE9dmP6-sfjmnjbDenP-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="640" as="sourcePoint" />
-            <mxPoint x="500" y="640" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-11" target="j2kc7Oip9wlwYq-TMwCC-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JwE9dmP6-sfjmnjbDenP-32" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="600" width="80" height="80" as="geometry" />
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-11" value="Write and test each method one by one" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="170" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-13" target="j2kc7Oip9wlwYq-TMwCC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-13" value="First we will write a method to display the transactions from a selected account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="170" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-15" target="j2kc7Oip9wlwYq-TMwCC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-15" value="In the same method we will calculate the balance, and the cash flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-17" target="j2kc7Oip9wlwYq-TMwCC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-17" value="Ensure the method can be called even if a filter is used to sort" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-19" target="j2kc7Oip9wlwYq-TMwCC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-19" value="Now work on 2 filters to sort the transactions either by date or by reason" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-21" target="j2kc7Oip9wlwYq-TMwCC-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-21" value="In the end we need to create a method that will allow the user to print all the transactions from the chosen account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j2kc7Oip9wlwYq-TMwCC-23" target="j2kc7Oip9wlwYq-TMwCC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-23" value="Test the app to ensure every method works properly. Add more comments where needed." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="440" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j2kc7Oip9wlwYq-TMwCC-25" value="END" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="465" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
