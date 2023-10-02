@@ -1,4 +1,4 @@
-﻿using KompCheck_Zaldea;
+﻿﻿using KompCheck_Zaldea;
 using System;
 using System.Collections.Generic;
 using System.IO;
